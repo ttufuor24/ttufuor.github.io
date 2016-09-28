@@ -1,4 +1,4 @@
-# ttufuor.github.io
+# ttufuor24.github.io
 
 The resume part of the assignment has been completed and works as expected.
 The bio part of the assignment has been completed. The content has been provided and the site is up and running
