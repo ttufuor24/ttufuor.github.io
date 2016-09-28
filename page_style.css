@@ -17,7 +17,7 @@ div {
 }
 
 #list {
-	list-style-type: square;
+	list-style-type: lower-roman;
 }
 
 #image {
